@@ -16,10 +16,10 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Namaste!",
-  sub: "Rohan Kokkula",
+  title: "Hello!",
+  sub: "Amna Barzan",
   logo_name: "Rohan Kokkula",
-  resumeLink: "",
+  resumeLink: "https://drive.google.com/file/d/1op_qNfgkch_hPh6bPqTnfR8WMRj-O-Up/view?usp=sharing",
 };
 
 // home logos
